@@ -7,6 +7,9 @@ base
 bcachefs-tools
 bind
 bolt
+breeze
+breeze-gtk
+breeze5
 brltty
 broadcom-wl
 btrfs-progs
@@ -20,6 +23,7 @@ diffutils
 dmidecode
 dmraid
 dnsmasq
+dolphin
 dosfstools
 e2fsprogs
 edk2-shell
@@ -29,6 +33,7 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
+firefox
 foot-terminfo
 fsarchiver
 gpart
@@ -43,7 +48,10 @@ irssi
 iw
 iwd
 jfsutils
+kate
 kitty-terminfo
+konsole
+kwayland-integration
 ldns
 less
 lftp
@@ -85,7 +93,14 @@ openvpn
 partclone
 parted
 partimage
+partitionmanager
 pcsclite
+pipewire
+pipewire-pulse
+plasma-desktop
+plasma-nm
+plasma-pa
+plasma5-integration
 ppp
 pptpclient
 pv
@@ -96,12 +111,15 @@ rp-pppoe
 rsync
 rxvt-unicode-terminfo
 screen
+sddm
 sdparm
 sequoia-sq
 sg3_utils
 smartmontools
 sof-firmware
+spice-vdagent
 squashfs-tools
+sudo
 sudo
 syslinux
 systemd-resolvconf
@@ -122,6 +140,8 @@ wireless-regdb
 wireless_tools
 wpa_supplicant
 wvdial
+xdg-desktop-portal-gtk
+xdg-desktop-portal-kde
 xfsprogs
 xl2tpd
 zsh
